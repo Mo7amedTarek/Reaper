@@ -30,6 +30,7 @@ pip install -r requirements.txt
 # [ Running ]
 ```
 python Reaper.py
+pythpn Reaper.py profile ID wordlist.txt
 ```
 # [ Screenshot ]
 <img src="reaper.png "/>
