@@ -63,7 +63,7 @@ Guess tool on Facebook password reset code with proxy
 '''
 
 if len(sys.argv) != 3:
-    print "[#] usage : Python Reaper.py Email Or ID wordlist.txt "
+    print "[#] usage : Python Reaper.py profile ID wordlist.txt "
     sys.exit()
 
 target = sys.argv[1]
