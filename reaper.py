@@ -117,13 +117,7 @@ while True:
         proxy = urllib2.ProxyHandler({'http': ip_proxy})
         opener = urllib2.build_opener(proxy)
         urllib2.install_opener(opener)
-        
-        #ip = urllib2.urlopen('http://checkip.dyndns.org').read()
-        #theIP = re.findall(r"\d{1,3}\.\d{1,3}\.\d{1,3}.\d{1,3}", ip)
-        #print theIP
-        #datum = response.read()
-        #response.close()
-        #print datum
+
         try:
             word = open(wordlist, 'r').readlines()
             print "[+] Facebook Codes Loaded \!/\n[+] Codes:",len(word)
