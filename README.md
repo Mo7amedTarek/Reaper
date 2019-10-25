@@ -37,7 +37,7 @@ python2 reaper.py id wordlist.txt
 
 ```
 # [ Screenshot ]
-<img src="reaper.png "/>
+<img src="image.png "/>
 
 * [1] Reset Code Facebook Without Proxy
 * [2] Using Proxy
