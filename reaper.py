@@ -56,14 +56,14 @@ print '''
                      "^T$b.g$P^"               
                         "^$^"
 
------------------------------------------------------
+--------------------------------------------------
                      ~ Reaper ~
-Guess tool on Facebook password reset code with proxy
+Guess on Facebook password reset code with proxy
                   Coded by Cyber0X
 '''
 
 if len(sys.argv) != 3:
-    print "[#] usage : Python Reaper.py profile ID wordlist.txt "
+    print "[#] usage : Python Reaper.py ID wordlist.txt "
     sys.exit()
 
 target = sys.argv[1]
