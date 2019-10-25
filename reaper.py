@@ -57,9 +57,9 @@ print '''
                         "^$^"
 
 --------------------------------------------------
-                     ~ Reaper ~
-Guess on Facebook password reset code with proxy
-                  Coded by Cyber0X
+                    ~ Reaper ~
+ Guess on Facebook password reset code with proxy
+                 Coded by Cyber0X
 '''
 
 if len(sys.argv) != 3:
