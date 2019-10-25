@@ -19,7 +19,7 @@ Termux
 # [ Installation ]
 ```
 git clone https://github.com/Cyber0X/Reaper
-cd Reaper
+cd reaper
 chmod +x reaper.py
 ```
 
@@ -29,8 +29,8 @@ pip install -r requirements.txt
 ```
 # [ Running ]
 ```
-python Reaper.py
-pythpn Reaper.py profile ID wordlist.txt
+python2 reaper.py
+pythpn2 reaper.py ID wordlist.txt
 ```
 # [ Screenshot ]
 <img src="reaper.png "/>
